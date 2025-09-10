@@ -3,5 +3,3 @@
 [@apo2073](https://github.com/apo2073)
 
 [@hachiahchi](https://github.com/hachiahchi)
-
-[@PPOTTETTO](https://github.com/PPOTTETTO)
